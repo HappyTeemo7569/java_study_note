@@ -1,0 +1,7 @@
+/.idea/
+/app.log
+/*.exe
+/vendor
+/logs
+/vkit
+/bin
